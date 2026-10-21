@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "chalk_extras",
+  "version": "1.0.0",
+  "name": "Chalk: Extras",
+  "description": "Adds extra symbols to Chalk",
+  "authors": [
+    "Pyromantis"
+  ],
+  "contact": {
+    "homepage":"https://modrinth.com/mod/chalk-extras"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "*",
+  "depends": {
+    "minecraft": "*",
+    "fabric": "*",
+    "chalk": ">=2.0.0"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "group_priority": 1016,
+  "group":"tools",
+  "orientation_behavior": "up_down_cardinal",
+  "texture": "chalk_extras:block/mark/shield",
+  "required_advancement": "minecraft:story/deflect_arrow"
+}

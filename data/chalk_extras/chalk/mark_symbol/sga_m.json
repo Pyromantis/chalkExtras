@@ -1,0 +1,6 @@
+{
+  "group": "Standart Galactic Alphabet",
+  "group_priority": 1032,
+  "orientation_behavior": "up_down_cardinal",
+  "texture": "chalk_extras:block/mark/sga_m"
+}

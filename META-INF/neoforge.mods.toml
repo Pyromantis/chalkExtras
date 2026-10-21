@@ -1,0 +1,19 @@
+modLoader="javafml"
+license="MIT"
+loaderVersion="[4,)"
+displayURL="https://modrinth.com/mod/chalk-extras"
+logoFile="icon.png"
+
+[[mods]]
+modId="chalk_extras"
+version="1.0.0"
+displayName="Chalk: Extras"
+authors="Pyromantis"
+description="Adds extra symbols to Chalk"
+
+[[dependencies.chalk_extras]]
+modId = "chalk"
+type = "required"
+versionRange = "[2.0.0,)"
+ordering = "NONE"
+side = "BOTH"

@@ -1,0 +1,6 @@
+{
+  "group": "Illageralt",
+  "group_priority": 1070,
+  "orientation_behavior": "up_down_cardinal",
+  "texture": "chalk_extras:block/mark/Illageralt/ill_u.png"
+}

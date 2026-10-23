@@ -1,0 +1,6 @@
+{
+"group": "Suits",
+  "group_priority": 780,
+  "orientation_behavior": "up_down_cardinal",
+  "texture": "chalk_extras:block/mark/diamond"
+}

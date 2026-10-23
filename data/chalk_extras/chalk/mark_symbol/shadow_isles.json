@@ -1,0 +1,6 @@
+{
+  "group": "Runeterra",
+  "group_priority": 107,
+  "orientation_behavior": "up_down_cardinal",
+  "texture": "chalk_extras:block/mark/shadow_isles"
+}

@@ -2,5 +2,5 @@
   "group": "Illageralt",
   "group_priority": 1082,
   "orientation_behavior": "up_down_cardinal",
-  "texture": "chalk_extras:block/mark/Illageralt/ill_6.png"
+  "texture": "chalk_extras:block/mark/illageralt/ill_6"
 }

@@ -1,0 +1,6 @@
+{
+  "group": "Runeterra",
+  "group_priority": 101,
+  "orientation_behavior": "up_down_cardinal",
+  "texture": "chalk_extras:block/mark/bilgewater"
+}

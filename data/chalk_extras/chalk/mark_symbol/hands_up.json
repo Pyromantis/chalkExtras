@@ -1,0 +1,5 @@
+{
+  "group_priority": 1024,
+  "orientation_behavior": "up_down_cardinal",
+  "texture": "chalk_extras:block/mark/hands_up"
+}

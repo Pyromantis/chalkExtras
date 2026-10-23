@@ -1,5 +1,5 @@
 {
   "group_priority": 1002,
-  "orientation_behavior": "up_down_cardinal",
+  "orientation_behavior": "cardinal",
   "texture": "chalk_extras:block/mark/delta"
 }

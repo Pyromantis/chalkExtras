@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="chalk_extras"
-version="1.0.0"
+version="1.1.0"
 displayName="Chalk: Extras"
 authors="Pyromantis"
 description="Adds extra symbols to Chalk"

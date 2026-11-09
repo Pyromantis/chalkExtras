@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "chalk_extras",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "Chalk: Extras",
   "description": "Adds extra symbols to Chalk",
   "authors": [
